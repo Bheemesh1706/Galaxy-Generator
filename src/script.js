@@ -27,13 +27,13 @@ const cube = new THREE.Mesh(
  */
 
 const parameters ={}
-parameters.count= 10000;
-parameters.size=0.01;
+parameters.count= 15000;
+parameters.size=0.014;
 parameters.radius=5;
 parameters.branches=3;
-parameters.spin=1;
-parameters.randomness=0.02;
-parameters.randomnessPower=3;
+parameters.spin=-1.39;
+parameters.randomness=2;
+parameters.randomnessPower=4.47;
 parameters.insideColor = '#ff6030'
 parameters.outsideColor = '#1b3984'
 let particlesGementry= null;
