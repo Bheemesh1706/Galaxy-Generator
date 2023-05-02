@@ -27,7 +27,7 @@ const cube = new THREE.Mesh(
  */
 
 const parameters ={}
-parameters.count= 15000;
+parameters.count= 152000;
 parameters.size=0.014;
 parameters.radius=5;
 parameters.branches=3;
